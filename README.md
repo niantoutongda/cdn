@@ -1,7 +1,7 @@
 # cdn
 
 我的图床地址
-https://cdn.jsdelivr.net/gh/lostfawn/cdn@latest/
+https://cdn.jsdelivr.net/gh/niantoutongda/cdn@latest/
 
 上传命令
 ```
